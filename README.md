@@ -1,0 +1,4 @@
+geanyconfig
+===========
+
+Geany config files
